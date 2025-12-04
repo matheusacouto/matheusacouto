@@ -3,7 +3,7 @@
 ## About Me
 
 📌 Bom Jesus do Itabapoana/RJ - Brazil 🇧🇷   
-💡 Curious about UX, DevOps, and automation  
+💻 FullStack Developer - Software Engineer
 
 ## Tech Stacks
 
@@ -17,10 +17,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 
 
-
 ### 🧩 Back-End
 
 ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=red)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
 ![Rails](https://img.shields.io/badge/Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
 ![Node](https://img.shields.io/badge/Node-333333?style=flat&logo=node.js)
 
@@ -30,11 +30,12 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333333?style=flat&logo=digitalocean)
+![AWS](https://img.shields.io/badge/AWS-333333.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![RSpec](https://img.shields.io/badge/RSpec-white?logo=rubygems)
+![RSpec](https://img.shields.io/badge/RSpec-333333?logo=rubygems)
 
 
 ### Develpment Tools
