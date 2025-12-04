@@ -34,6 +34,7 @@
 ### Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![RSpec](https://img.shields.io/badge/RSpec-white?logo=rubygems)
 
 
 ### Develpment Tools
@@ -46,6 +47,7 @@
 ![Expo Orbit](https://img.shields.io/badge/-Expo%20Orbit-000020?style=flat&logo=expo&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+
 
 ---
 
