@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+
 
 
 ### 🧩 Back-End
@@ -23,10 +23,6 @@
 ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=red)
 ![Rails](https://img.shields.io/badge/Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
 ![Node](https://img.shields.io/badge/Node-333333?style=flat&logo=node.js)
-
-<a href="https://github.com/matheusacouto" title="Matheus's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusacouto&theme=dark&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="right" />
-</a>
 
 ### Databases & Clouds
 
@@ -39,6 +35,7 @@
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
+
 ### Develpment Tools
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,6 +45,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Expo Orbit](https://img.shields.io/badge/-Expo%20Orbit-000020?style=flat&logo=expo&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ---
 
