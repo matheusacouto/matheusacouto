@@ -2,61 +2,87 @@
 
 ## About Me
 
-📌 Bom Jesus do Itabapoana/RJ - Brazil 🇧🇷   
+📌 Bom Jesus do Itabapoana/RJ - Brazil 🇧🇷  
 💻 FullStack Developer - Software Engineer
 
-## Tech Stacks
+## Tech Stack
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+<img
+  align="right"
+  width="500"
+  src="https://matheuscouto.dev/camping"
+  alt="2D illustration combining a campsite and a software development workspace"
+/>
 
+### Mobile & Front-End
 
-### 🧩 Back-End
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Navigation](https://img.shields.io/badge/React%20Navigation-6B52AE?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=red)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
-![Rails](https://img.shields.io/badge/Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
-![Node](https://img.shields.io/badge/Node-333333?style=flat&logo=node.js)
+### Back-End & APIs
 
-### Databases & Clouds
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=flat-square&logo=npm&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333333?style=flat&logo=digitalocean)
-![AWS](https://img.shields.io/badge/AWS-333333.svg?style=flat&logo=amazon-aws&logoColor=white)
+### Data
 
-### Testing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![RSpec](https://img.shields.io/badge/RSpec-333333?logo=rubygems)
+### Mobile Services
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Notifee](https://img.shields.io/badge/Notifee-5E5CE6?style=flat-square&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo EAS Update](https://img.shields.io/badge/Expo%20EAS%20Update-4630EB?style=flat-square&logo=expo&logoColor=white)
 
-### Develpment Tools
+### Testing, Delivery & Tools
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Trello](https://img.shields.io/badge/Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Expo Orbit](https://img.shields.io/badge/-Expo%20Orbit-000020?style=flat&logo=expo&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+### Ways of Working
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+### Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-009C3B?style=flat-square)
+![English](https://img.shields.io/badge/English-Advanced-012169?style=flat-square)
 
 ---
 
 ## 📫 Where to find me
 
 <p align="left">
-
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=orenato.ames@gmail.com)](mailto:contact@matheuscouto.dev)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-a-couto/)](https://www.linkedin.com/in/matheus-a-couto/) 
-[![GitHub](https://img.shields.io/github/followers/matheusacouto?label=follow&style=social)](https://github.com/matheusacouto)
+  <a href="mailto:contact@matheuscouto.dev">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-a-couto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/matheusacouto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
